@@ -1,0 +1,7 @@
+E:\Semester2\OOPLab\Week1\SA1\SA1\bin\Debug\SA1.exe.config
+E:\Semester2\OOPLab\Week1\SA1\SA1\bin\Debug\SA1.exe
+E:\Semester2\OOPLab\Week1\SA1\SA1\bin\Debug\SA1.pdb
+E:\Semester2\OOPLab\Week1\SA1\SA1\obj\Debug\SA1.csproj.AssemblyReference.cache
+E:\Semester2\OOPLab\Week1\SA1\SA1\obj\Debug\SA1.csproj.CoreCompileInputs.cache
+E:\Semester2\OOPLab\Week1\SA1\SA1\obj\Debug\SA1.exe
+E:\Semester2\OOPLab\Week1\SA1\SA1\obj\Debug\SA1.pdb

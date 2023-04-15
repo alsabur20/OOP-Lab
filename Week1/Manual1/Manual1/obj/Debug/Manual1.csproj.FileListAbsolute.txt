@@ -1,0 +1,7 @@
+E:\Week1\Manual1\Manual1\bin\Debug\Manual1.exe.config
+E:\Week1\Manual1\Manual1\bin\Debug\Manual1.exe
+E:\Week1\Manual1\Manual1\bin\Debug\Manual1.pdb
+E:\Week1\Manual1\Manual1\obj\Debug\Manual1.csproj.AssemblyReference.cache
+E:\Week1\Manual1\Manual1\obj\Debug\Manual1.csproj.CoreCompileInputs.cache
+E:\Week1\Manual1\Manual1\obj\Debug\Manual1.exe
+E:\Week1\Manual1\Manual1\obj\Debug\Manual1.pdb

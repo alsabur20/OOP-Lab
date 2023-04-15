@@ -1,0 +1,9 @@
+C:\Users\alsab\source\repos\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.csproj.AssemblyReference.cache
+C:\Users\alsab\source\repos\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.csproj.CoreCompileInputs.cache
+E:\Week1\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.csproj.AssemblyReference.cache
+E:\Week1\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.csproj.CoreCompileInputs.cache
+E:\Week1\SignUP.IN\SignUP.IN\bin\Debug\SignUP.IN.exe.config
+E:\Week1\SignUP.IN\SignUP.IN\bin\Debug\SignUP.IN.exe
+E:\Week1\SignUP.IN\SignUP.IN\bin\Debug\SignUP.IN.pdb
+E:\Week1\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.exe
+E:\Week1\SignUP.IN\SignUP.IN\obj\Debug\SignUP.IN.pdb
