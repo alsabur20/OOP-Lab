@@ -1,0 +1,14 @@
+D:\UET\Week6\P2\P2\bin\Debug\P2.exe.config
+D:\UET\Week6\P2\P2\bin\Debug\P2.exe
+D:\UET\Week6\P2\P2\bin\Debug\P2.pdb
+D:\UET\Week6\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+D:\UET\Week6\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+D:\UET\Week6\P2\P2\obj\Debug\P2.exe
+D:\UET\Week6\P2\P2\obj\Debug\P2.pdb
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\obj\Debug\P2.exe
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\obj\Debug\P2.pdb
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\bin\Debug\P2.exe.config
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\bin\Debug\P2.exe
+D:\UET\Semester2\OOP\Lab\Week6\P2\P2\bin\Debug\P2.pdb
