@@ -1,0 +1,7 @@
+E:\Week5\PS1\PS1\bin\Debug\PS1.exe.config
+E:\Week5\PS1\PS1\bin\Debug\PS1.exe
+E:\Week5\PS1\PS1\bin\Debug\PS1.pdb
+E:\Week5\PS1\PS1\obj\Debug\PS1.csproj.AssemblyReference.cache
+E:\Week5\PS1\PS1\obj\Debug\PS1.csproj.CoreCompileInputs.cache
+E:\Week5\PS1\PS1\obj\Debug\PS1.exe
+E:\Week5\PS1\PS1\obj\Debug\PS1.pdb

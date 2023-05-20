@@ -1,0 +1,7 @@
+E:\Week5\PS3\PS3\bin\Debug\PS3.exe.config
+E:\Week5\PS3\PS3\bin\Debug\PS3.exe
+E:\Week5\PS3\PS3\bin\Debug\PS3.pdb
+E:\Week5\PS3\PS3\obj\Debug\PS3.csproj.AssemblyReference.cache
+E:\Week5\PS3\PS3\obj\Debug\PS3.csproj.CoreCompileInputs.cache
+E:\Week5\PS3\PS3\obj\Debug\PS3.exe
+E:\Week5\PS3\PS3\obj\Debug\PS3.pdb
