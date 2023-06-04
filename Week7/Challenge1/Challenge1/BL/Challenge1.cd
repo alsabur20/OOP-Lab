@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Challenge1.FireFighter">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\FireFighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.FireTruck">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAABACAQAAgAACAAABEAAAEA=</HashCode>
+      <FileName>BL\FireTruck.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Hose" />
+      <Field Name="Ladder" />
+      <Field Name="Employee" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Challenge1.Ladder">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAABEAAAAAAAAAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>BL\Ladder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.Hose">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAAAAEAAAAABAAAABAAAAAEEBABAABBABAA=</HashCode>
+      <FileName>BL\Hose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.FireChief">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\FireChief.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.Employee">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAABAA=</HashCode>
+      <FileName>BL\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

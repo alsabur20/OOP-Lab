@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Challenge2.Bicycle">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAQAAEAABAAABAQAAAAABAAAAAAA=</HashCode>
+      <FileName>BL\Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge2.MountainBike">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAAAAA=</HashCode>
+      <FileName>BL\MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
