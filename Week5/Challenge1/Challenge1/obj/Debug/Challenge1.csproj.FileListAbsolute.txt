@@ -1,0 +1,7 @@
+D:\UET\Week5\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+D:\UET\Week5\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+D:\UET\Week5\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+D:\UET\Week5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+D:\UET\Week5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+D:\UET\Week5\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+D:\UET\Week5\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
