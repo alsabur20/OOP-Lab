@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Problem4.BL.Rectangle">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQEAABAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>BL\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem4.BL.Shape">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAQABAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>BL\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem4.BL.Square">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>BL\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem4.BL.Circle">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>BL\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
